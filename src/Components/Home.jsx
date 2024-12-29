@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/laptop-1512838_1280";
+import image from "../images/laptop-1512838_1280.png";
 
 const imageAltText = "vector of a laptop";
 
